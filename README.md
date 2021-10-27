@@ -1,5 +1,5 @@
 # titanic
-Analysis of 'Titanic - Machine Learning from Disaster' data from Kaggle.  C
+Analysis of 'Titanic - Machine Learning from Disaster' data from Kaggle. 
 
 Current score in the Kaggle's competition is 0.78
 
